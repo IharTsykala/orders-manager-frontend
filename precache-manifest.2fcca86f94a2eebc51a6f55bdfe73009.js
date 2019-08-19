@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70220c8f2ff2a4293ed24fe222e8423a",
+    "revision": "2d1b41be63cfb36db4d28e58e9613b65",
     "url": "/orders-manager-frontend/index.html"
   },
   {
-    "revision": "74899abe29a1d2b8f7b5",
-    "url": "/orders-manager-frontend/static/css/main.eb6d915a.chunk.css"
+    "revision": "723387e9e5182bea8ce5",
+    "url": "/orders-manager-frontend/static/css/main.7159a21c.chunk.css"
   },
   {
-    "revision": "c03bbf0814a607fafece",
-    "url": "/orders-manager-frontend/static/js/2.dd9939f0.chunk.js"
+    "revision": "e8d85fa31089a13d948d",
+    "url": "/orders-manager-frontend/static/js/2.0252ad86.chunk.js"
   },
   {
-    "revision": "74899abe29a1d2b8f7b5",
-    "url": "/orders-manager-frontend/static/js/main.d787b68e.chunk.js"
+    "revision": "723387e9e5182bea8ce5",
+    "url": "/orders-manager-frontend/static/js/main.9a2e6850.chunk.js"
   },
   {
     "revision": "07e47a11660c5e2e47b5",
