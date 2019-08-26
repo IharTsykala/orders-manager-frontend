@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5bd6adf775e42c8aa58e8dfc55bb841c",
+    "revision": "c434ee6fda59682a4adb242d09040bf7",
     "url": "/orders-manager-frontend/index.html"
   },
   {
-    "revision": "43358d8fb89c7e872d88",
+    "revision": "71232b82837f641dfff4",
     "url": "/orders-manager-frontend/static/css/2.965ebd84.chunk.css"
   },
   {
-    "revision": "2464a5bcd55d3879e2a3",
-    "url": "/orders-manager-frontend/static/css/main.a38f8f40.chunk.css"
+    "revision": "74b475284c170e099484",
+    "url": "/orders-manager-frontend/static/css/main.ccc60318.chunk.css"
   },
   {
-    "revision": "43358d8fb89c7e872d88",
-    "url": "/orders-manager-frontend/static/js/2.c5612f2e.chunk.js"
+    "revision": "71232b82837f641dfff4",
+    "url": "/orders-manager-frontend/static/js/2.3f6c4823.chunk.js"
   },
   {
-    "revision": "2464a5bcd55d3879e2a3",
-    "url": "/orders-manager-frontend/static/js/main.3b9f9e4d.chunk.js"
+    "revision": "74b475284c170e099484",
+    "url": "/orders-manager-frontend/static/js/main.703b7345.chunk.js"
   },
   {
     "revision": "07e47a11660c5e2e47b5",
