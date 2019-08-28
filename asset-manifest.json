@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/orders-manager-frontend/static/css/main.ccc60318.chunk.css",
-    "main.js": "/orders-manager-frontend/static/js/main.703b7345.chunk.js",
-    "main.js.map": "/orders-manager-frontend/static/js/main.703b7345.chunk.js.map",
+    "main.css": "/orders-manager-frontend/static/css/main.bd572533.chunk.css",
+    "main.js": "/orders-manager-frontend/static/js/main.40a908d2.chunk.js",
+    "main.js.map": "/orders-manager-frontend/static/js/main.40a908d2.chunk.js.map",
     "runtime~main.js": "/orders-manager-frontend/static/js/runtime~main.9f74f02a.js",
     "runtime~main.js.map": "/orders-manager-frontend/static/js/runtime~main.9f74f02a.js.map",
     "static/css/2.965ebd84.chunk.css": "/orders-manager-frontend/static/css/2.965ebd84.chunk.css",
-    "static/js/2.3f6c4823.chunk.js": "/orders-manager-frontend/static/js/2.3f6c4823.chunk.js",
-    "static/js/2.3f6c4823.chunk.js.map": "/orders-manager-frontend/static/js/2.3f6c4823.chunk.js.map",
+    "static/js/2.1abd4bf9.chunk.js": "/orders-manager-frontend/static/js/2.1abd4bf9.chunk.js",
+    "static/js/2.1abd4bf9.chunk.js.map": "/orders-manager-frontend/static/js/2.1abd4bf9.chunk.js.map",
     "index.html": "/orders-manager-frontend/index.html",
-    "precache-manifest.e45d2d05d51457c0a127660acf78042d.js": "/orders-manager-frontend/precache-manifest.e45d2d05d51457c0a127660acf78042d.js",
+    "precache-manifest.4a47de604431fb8b9800e01a195284b4.js": "/orders-manager-frontend/precache-manifest.4a47de604431fb8b9800e01a195284b4.js",
     "service-worker.js": "/orders-manager-frontend/service-worker.js",
     "static/css/2.965ebd84.chunk.css.map": "/orders-manager-frontend/static/css/2.965ebd84.chunk.css.map",
-    "static/css/main.ccc60318.chunk.css.map": "/orders-manager-frontend/static/css/main.ccc60318.chunk.css.map",
+    "static/css/main.bd572533.chunk.css.map": "/orders-manager-frontend/static/css/main.bd572533.chunk.css.map",
     "static/media/fontello.css": "/orders-manager-frontend/static/media/fontello.e0d68902.ttf"
   }
 }
